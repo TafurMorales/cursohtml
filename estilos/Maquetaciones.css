@@ -1,0 +1,99 @@
+body{
+    background-color: #649f31;
+    
+}
+
+.menu{
+    width: 450px;
+    height: 650px;
+    background-color:#529d14;
+    position: relative;
+    left: 600px;  
+    padding: 15px; 
+}
+
+header{
+    width: 452px;
+    height: 90px;
+    background-color:#8ce043 ;
+    float: right;
+}
+
+
+img{
+    width: 80px;
+    position: relative;
+    left:360px;
+    top: 5px;
+}
+
+.nav{
+    width: 92px;
+    height: 55px;
+    background-color: white;
+    margin: 10px;
+    position: relative;
+    bottom: 4px;
+}
+
+nav{
+    width: 450px;
+    height: 70px;
+    background-color:#73ec09 ;
+    float: left;
+    margin-top: 10px ;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content:center;
+    align-items: center;
+    
+}
+
+.primer{
+    width: 450px;
+    height: 350px;
+    background-color:#82BD50 ;
+    float: left;
+    margin-top: 10px;
+    display: flex;
+    flex-flow: row wrap;
+}
+
+.segundo{
+    width: 190px;
+    height: 50px;
+    background-color:#ffffff  ;
+    border:5px solid #ffffff ;
+    position: relative;
+    top: 80px;
+    margin-left: 10px;
+}
+
+.aside1{
+    width: 200px;
+    height: 50px;
+    background-color:#ffffff  ;
+    border:5px solid #ffffff;
+    margin-left: 20px;
+    position: relative;
+    top: 80px;
+}
+.aside2{
+    width: 190px;
+    height: 50px;
+    background-color:#ffffff  ;
+    border:5px solid #ffffff;
+    margin-left: 10px;
+    position: relative;
+    top: 50px;
+}
+
+
+footer{
+    width: 450px;
+    height: 70px;
+    background-color:#82BD50 ;
+    float: left;
+    margin-top: 50px;
+    
+}
